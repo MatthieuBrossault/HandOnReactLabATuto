@@ -28,7 +28,6 @@ function ProjectCard({ project }: ProjectCardProps) {
           <span className="icon-edit " />
           Edit
         </button>
-
       </section>
     </div>
   )
